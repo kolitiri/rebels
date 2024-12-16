@@ -1,1 +1,7 @@
+.post-heading .post-meta {
+  display: none;
+}
 
+.post-preview .post-meta {
+  display: none;
+}
