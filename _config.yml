@@ -15,7 +15,7 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 title: Rebels Pizza
 
 # Your name to show in the footer
-author: Βόλου 102
+author: Βόλου 102 - 2411-817333
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -102,7 +102,7 @@ rss-description:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "rebelspizza.gr"
+url-pretty:
 
 # Add the website title to the title of every page
 title-on-all-pages: true
