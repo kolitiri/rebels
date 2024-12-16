@@ -5,3 +5,7 @@
 .post-preview .post-meta {
   display: none;
 }
+
+.pagination .page-item .page-link {
+  display: none;
+}
