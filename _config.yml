@@ -117,7 +117,7 @@ feed_show_excerpt: false
 feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: false
+post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
