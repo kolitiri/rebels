@@ -9,3 +9,7 @@
 .pagination .page-item .page-link {
   display: none;
 }
+
+.post-preview {
+  text-align: center;
+}
