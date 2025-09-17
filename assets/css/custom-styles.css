@@ -26,6 +26,6 @@
   background-color: #dedddc;
 }
 
-.box-note, .box-warning, .box-error, .box-success {
+.box-note .box-warning .box-error .box-success {
   border: #0e0804;
 }
