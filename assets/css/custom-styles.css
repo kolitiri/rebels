@@ -22,5 +22,11 @@
 }
 
 .box-note {
-  border-left-color: #E28E3F
+  border-left-color: #0e0804
+}
+
+.box-note {
+  border-left-color: #0e0804
+  background-color: #0e0804
+  border: #0e0804
 }
