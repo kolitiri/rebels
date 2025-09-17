@@ -10,6 +10,9 @@
   display: none;
 }
 
+.post-preview {
+  border-bottom-color: #0e0804
+}
 .pagination .page-item .page-link {
   display: none;
 }
