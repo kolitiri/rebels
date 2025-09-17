@@ -23,9 +23,8 @@
 
 .box-note {
   border-left-color: #0e0804;
-  background-color: #dedddc;
-}
-
-.box-success {
-  border: 1px solid #0e0804;
+  border-top-color: #0e0804;
+  border-right-color: #0e0804;
+  border-bottom-color: #0e0804;
+  background-color: #e28e3f;
 }
