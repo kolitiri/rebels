@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Κρέπες
+title: Κρέπες Αλμυρές
 ---
 
 ### Ceasars | 6.5€
